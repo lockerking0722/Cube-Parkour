@@ -1,0 +1,5 @@
+{
+  "name": "Cube Parkour",
+  "description": "A 2D platformer parkour game where you control a cube to dodge spikes, lava, and collect coins.",
+  "requestFramePermissions": []
+}
